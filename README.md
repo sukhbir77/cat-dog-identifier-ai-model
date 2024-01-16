@@ -16,7 +16,7 @@ This project leverages Deep Convolutional Learning to create an image classifier
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/sukhbir77/Cat_And_Dog_Identifier.git
+   git clone https://github.com/sukhbir77/cat-dog-identifier-ai-model.git
 
 # Link For the trained model.
 https://drive.google.com/file/d/1l6097Z3QC0u6Cip-kDrBSZ6_ezGPljup/view?usp=sharing
